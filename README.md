@@ -9,4 +9,5 @@ Nama Anggota:
 2. M248v6218 - Uji Khaidah Resti
 
 Simulasi
+
 ![Simulasi Capstone](https://user-images.githubusercontent.com/68459186/147338303-21023292-2e6f-4386-a90d-7272e1acd998.gif)
